@@ -1,2 +1,2 @@
 # testrepo
-Beleírtam a git hubon
+Beleírtam a git hubon ezt.
